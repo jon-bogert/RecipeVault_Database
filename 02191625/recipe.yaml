@@ -1,0 +1,35 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 1592
+    name: Whole peeled tomatoes
+    note: (Mutti brand)
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Yellow Onion
+    note: whole
+  - type: Cloves
+    is-scalable: true
+    amount: 0
+    name: Garlic
+    note: whole
+  - type: Volume
+    amount: 59.1470947
+    name: Extra Virgin Olive Oil
+  - type: Volume
+    amount: 59.1470947
+    name: Fresh Oregano
+    note: chopped
+  - type: Volume
+    amount: 59.1470947
+    name: Fresh Basil
+    note: chopped
+  - type: Volume
+    amount: 4.92892504
+    name: Salt
+directions:
+  - "In a large, heavy bottomed saucepan, combine the tomatoes (with their juices), halved onion, garlic cloves, olive oil, oregano, and red pepper flakes (if using). "
+  - Bring the sauce to a simmer over medium-high, then lower the heat to keep the sauce at a slow, steady simmer for about 45 minutes, or until droplets of oil float free of the tomatoes. Stir occasionally, and use a sturdy wooden spoon to crush the tomatoes against the side of the pot after about 15 minutes has passed.
+  - Remove the pot from the heat and discard the onion. Smash the garlic cloves against the side of the pot with a fork, then stir the smashed garlic into the sauce. Do the same with any tiny onion pieces you might find. Use the wooden spoon to crush the tomatoes to your liking (you can blend this sauce smooth with an immersion blender or stand blender, if desired).
+  - Add salt and serve (use less salt if using a different brand of tomatoes that may already have salt in them).

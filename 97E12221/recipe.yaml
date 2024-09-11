@@ -1,0 +1,29 @@
+version: 0
+ingredients:
+  - type: Heads
+    is-scalable: true
+    amount: 3
+    name: Broccoli
+  - type: Volume
+    amount: 44.360321
+    name: Olive Oil
+  - type: Volume
+    amount: 2.46446252
+    name: Salt
+  - type: Volume
+    amount: 177.441284
+    name: Water
+  - type: Volume
+    amount: 4.92892504
+    name: Garlic Powder
+  - type: Volume
+    amount: 2.46446252
+    name: Onion Powder
+  - type: Volume
+    amount: 1.23223126
+    name: Dry Mustard Powder
+directions:
+  - "Chop the broccoli into medium sized florets. "
+  - "A small bowl, together water, garlic powder, onion powder, and mustard powder. "
+  - "Heat oil in a large pan over medium high heat. Add broccoli and sprinkle with salt. Cook for 2 to 2.5 minutes until starting to brown. "
+  - Reduced heat to medium, add water and spice mixture. Cover and cook for 5 minutes, then remove the lid and cook for two more minutes until water is evaporated.

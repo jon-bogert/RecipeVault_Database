@@ -1,0 +1,44 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: true
+    amount: 4
+    name: Chicken Breasts
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Salt
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Pepper
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Garlic Powder
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Dried Thyme
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Dried Rosemary
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Dired Basil
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Dried Oregano
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Peanut Oil
+directions:
+  - Pound chicken until 3/4 - 1 inch thick.
+  - "Season with salt, pepper, garlic powder. Season generously with thyme, rosemary, and basil. "
+  - Press seasoning in to meat.
+  - "Coat a cast iron pan with peanut oil. Heat over medium heat. "
+  - Place two chicken breasts in the pan and cook until brown. Flip breasts and cook to an internal temperature of 165 deg-F. Remove from pan and keep warm. Repeat for the remaining two breasts.

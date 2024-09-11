@@ -1,0 +1,31 @@
+version: 0
+ingredients:
+  - type: Mass
+    amount: 907.185791
+    name: Ground Italian Sausage
+  - type: ""
+    is-scalable: true
+    amount: 2
+    name: Eggs
+  - type: Volume
+    amount: 236.588379
+    name: Breadcrumbs with Italian Seasoning
+  - type: Cloves
+    is-scalable: true
+    amount: 2
+    name: Garlic
+    note: minced
+  - type: Volume
+    amount: 236.588379
+    name: Parmesan
+    note: finely grated
+  - type: Volume
+    amount: 236.588379
+    name: Water
+    note: lukewarm
+directions:
+  - Preheat oven to 400 deg-F. Line a large baking sheet with parchment paper and set aside.
+  - In a large bowl combined ground sausage, eggs, breadcrumbs, cheese, and garlic. Slowly add the water, a few tablespoons at a time, mixing with your hands until everything is just combined. Don't over mix here or it'll make the meatballs tough. The mixture should be very moist but still hold its shape when rolled into meatballs.
+  - Using an ice cream scoop or large spoon, scoop about 100g of meat into your palms and roll it into a ball. Place the ball on a prepared baking sheet. Repeat with all of the meat.
+  - Place the baking sheet in the oven to bake for 15 to 18 minutes, more until they're cooked through.
+  - Toss with your favorite sauce and serve!

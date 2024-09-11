@@ -1,0 +1,70 @@
+version: 0
+ingredients:
+  - type: Mass
+    amount: 340
+    name: Prawns
+    note: uncooked
+  - type: Volume
+    amount: 2.46446252
+    name: Salt
+  - type: Volume
+    amount: 2.46446252
+    name: Black Pepper
+  - type: Volume
+    amount: 44.360321
+    name: Olive Oil
+  - type: Cloves
+    is-scalable: true
+    amount: 4
+    name: Garlic
+    note: Minced
+  - type: Cloves
+    is-scalable: true
+    amount: 4
+    name: Garlic
+    note: Thinly Sliced
+  - type: Volume
+    amount: 14.7867737
+    name: Flour
+  - type: Volume
+    amount: 157.725586
+    name: Chardonnay
+  - type: Volume
+    amount: 118.294189
+    name: Reduced Sodium Chicken Broth
+  - type: Volume
+    amount: 236.588379
+    name: Whipping Cream
+  - type: Volume
+    amount: 709.765137
+    name: Spinach
+    note: loosely packed
+  - type: Volume
+    amount: 118.294189
+    name: Parmesan Cheese
+    note: shredded
+  - type: Volume
+    amount: 59.1470947
+    name: Sundried Tomatoes
+  - type: Mass
+    amount: 240
+    name: Pasta
+    note: (ex. Spaghetti or Spaghettini)
+  - type: Volume
+    amount: 14.7867737
+    name: "Olive Oil "
+  - type: To Taste
+    is-scalable: false
+    amount: 0
+    name: Parsley
+    note: dried or freshly chopped
+directions:
+  - "Marinade: Place the prawns, olive oil, garlic, salt, and pepper in a bowl. Gently toss then set aside for 20 minutes (no longer else prawns will sweat from the salt)."
+  - "When done marinating, fry prawns in a large non-stick frying pan over high heat. Sear each side for just 45 seconds, using tongs to turn. "
+  - "Remove prawns from heat and set aside in a warmer. Leave the drippings in the pan. "
+  - Begin to cook pasta as per package instructions. Drain and toss in olive oil and parsley when finished.
+  - Add the garlic and cook, stirring frequently, for 1 minute. Add the reserved tablespoon of flour mixture to Skillet. Cook, constantly for 2 minutes.
+  - "Whisk the wine, broth, and cream. Cook, stirring occasionally, until mixture is thickened, about 5 to 8 minutes. "
+  - "Add the spinach and cook until wilted, about 3 to 4 minutes. Remove from heat.  "
+  - Stir in the parmesan and sun-dried tomatoes. Return the prawns to pan just before serving.
+notes: Makes 2-3 servings

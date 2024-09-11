@@ -1,0 +1,44 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Naan Bread
+    note: store-bought
+  - type: Volume
+    amount: 44.360321
+    name: Tomato Sauce
+  - type: Volume
+    amount: 236.588379
+    name: Mozzerella
+    note: shredded
+  - type: To Taste
+    is-scalable: false
+    amount: 0
+    name: Salt
+  - type: To Taste
+    is-scalable: false
+    amount: 0
+    name: Pepper
+  - type: To Taste
+    is-scalable: false
+    amount: 0
+    name: Garlic Powder
+  - type: ""
+    is-scalable: true
+    amount: 5
+    name: Basil Leaves
+  - type: ""
+    is-scalable: true
+    amount: 4
+    name: Small Bocconcini
+    note: halved
+directions:
+  - Preheat oven to 400 deg-F
+  - Cover naan bread with tomato sauce, leaving a thin border of crust
+  - Cover with shredded mozzarella chees
+  - Add salt, pepper, and garlic powder to taste.
+  - Rip up fresh basil leaves and distribute on pizza.
+  - Cut bocconcini balls in half and distribute on pizza.
+  - Place an oven directly on rack for 8 to 10 minutes. You can place a baking sheet on the rack below to catch any potential drips.
+notes: Add sliced precooked chicken for extra protein. Use this recipe as a basis for creating pizzas with your own toppings.
