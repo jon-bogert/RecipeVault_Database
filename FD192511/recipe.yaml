@@ -12,15 +12,15 @@ ingredients:
     amount: 236.588379
     name: Mozzerella
     note: shredded
-  - type: To Taste
+  - type: ""
     is-scalable: false
     amount: 0
     name: Salt
-  - type: To Taste
+  - type: ""
     is-scalable: false
     amount: 0
     name: Pepper
-  - type: To Taste
+  - type: ""
     is-scalable: false
     amount: 0
     name: Garlic Powder

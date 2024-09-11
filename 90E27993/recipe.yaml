@@ -22,7 +22,7 @@ ingredients:
   - type: Volume
     amount: 29.5735474
     name: Vodka
-  - type: To Taste
+  - type: ""
     is-scalable: true
     amount: 0
     name: Salt

@@ -53,7 +53,7 @@ ingredients:
   - type: Volume
     amount: 14.7867737
     name: "Olive Oil "
-  - type: To Taste
+  - type: ""
     is-scalable: false
     amount: 0
     name: Parsley
