@@ -1,0 +1,27 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: Volume
+    amount: 29.5735474
+    name: Vodka
+  - type: Volume
+    amount: 22.1801605
+    name: Lime Juice
+  - type: Volume
+    amount: 29.5735474
+    name: Triple Sec
+  - type: Volume
+    amount: 59.1470947
+    name: Cranberry Cocktail
+  - type: Wheel/Wedge
+    is-scalable: true
+    amount: 0
+    name: Lime
+directions:
+  - Combine vodka, lime juice, triple sec, and cranberry cocktail in a shaker with ice.
+  - Strain into a cocktail glass.
+  - Garnish with lime wheel or wedge.
+notes: Can serve and build in rocks glass. For non alcoholic version, replace vodka and triple sec with pink lemonade and orange juice.

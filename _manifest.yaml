@@ -1,15 +1,15 @@
 content:
-  - id: FD192511
-    name: Faster-than-Frozen Margherita Pizza
-    tags:
-      - quick
-      - italian
-    category: Meal
   - id: 02191625
     name: Marinara Sauce
     tags:
       - italian
       - pasta
+    category: Meal
+  - id: FD192511
+    name: Faster-than-Frozen Margherita Pizza
+    tags:
+      - quick
+      - italian
     category: Meal
   - id: 97E12221
     name: Pan Fied Broccoli
@@ -23,16 +23,19 @@ content:
       - italian
       - pasta
     category: Meal
+  - id: 55D0EADF
+    name: Cosmopolitan
+    category: Cocktail
+  - id: CBD67906
+    name: Italian Sausage Meatballs
+    tags:
+      - italian
+    category: Meal
   - id: 90E27993
     name: Pasta Alla Vodka
     tags:
       - italian
       - pasta
-    category: Meal
-  - id: CBD67906
-    name: Italian Sausage Meatballs
-    tags:
-      - italian
     category: Meal
   - id: BA85F270
     name: Italian Cast Iron Chicken
