@@ -1,0 +1,53 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Red Bell Pepper
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Extra Virgin Olive Oil
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Red Wine Vinegar
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Salt
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Black Pepper
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Focaccia, Ciabatta, or Pane Roma Bread
+  - type: Slices
+    is-scalable: false
+    amount: 0
+    name: Mozzarella
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Italian Meats
+    note: (Genoa Salami, Prociutto)
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Arugula
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Balsamic Glaze
+directions:
+  - While preheating oven to 450 deg-F, slice red bell pepper into thin rings. Lay rings in a large casserole dish and coat with olive oil, red wide vinegar, salt, pepper, and mix.
+  - Place peppers in oven for 15 minutes.
+  - Preheat Panini Press to 400 deg-F.
+  - Slice chosen bread in half (leaving in one large piece if not already divided into servings) and coat the top piece with olive oil.
+  - Lay out slices of mozzarella, Italian meats, oven-roasted peppers, and arugula.
+  - Drizzle balsamic glaze liberally and close sandwich.
+  - Divide into 4 sandwiches and then cut each sandwich in half.
+  - Grill each sandwich on the panini press until cheese is melted and grill marks are present.
+notes: Recipe makes 4 sandwiches

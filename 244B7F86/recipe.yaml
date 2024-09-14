@@ -1,0 +1,46 @@
+version: 0
+ingredients:
+  - type: Mass
+    amount: 453.592896
+    name: Ground Beef
+  - type: Volume
+    amount: 118.294189
+    name: Yellow Onion
+  - type: Cloves
+    is-scalable: true
+    amount: 3
+    name: Garlic
+  - type: Volume
+    amount: 14.7867737
+    name: Chili Powder
+  - type: Volume
+    amount: 9.85785007
+    name: Ground Cumin
+  - type: Volume
+    amount: 29.5735474
+    name: Ground Coriander
+  - type: Volume
+    amount: 2.46446252
+    name: Salt
+  - type: Volume
+    amount: 2.46446252
+    name: Black Pepper
+  - type: Volume
+    amount: 236.588379
+    name: Tomato Sauce
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Jalapeno
+    note: seeded and finely minced
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Tortillas and toppings of choice
+    note: (salsa, sour cream, guacamole)
+directions:
+  - In a large skillet over medium heat, add ground beef, onion, along with a pinch of salt and pepper. Cook, stirring often and breaking the meat into small pieces, until meat is cooked through, 5-7 minutes.
+  - Off the heat, drain any excess grease, if needed.
+  - Return the skillet to the heat and stir in the garlic, chili powder, cumin, coriander, salt, and pepper. Cook for about 30 seconds until the mixture is fragrant.
+  - Add the tomato sauce and minced jalapeno. Simmer the mixture for about 5-19 minutes, stirring occasionally. Season to taste with additional salt and pepper if needed.
+  - Serve in taco shells with your choice of toppings (makes great taco salad too!).

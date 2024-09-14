@@ -1,0 +1,69 @@
+version: 0
+ingredients:
+  - type: Mass
+    amount: 226.795944
+    name: Rotini
+  - type: Volume
+    amount: 118.294189
+    name: Orange Juice
+  - type: Volume
+    amount: 78.862709
+    name: Hoisin Sauce
+  - type: Volume
+    amount: 29.5735474
+    name: Reduced-Sodium Soy Sauce
+  - type: Volume
+    amount: 22.1801605
+    name: Cornstarch
+  - type: Volume
+    amount: 14.7867737
+    name: Fresh Ginger
+    note: grated
+  - type: Volume
+    amount: 14.7867737
+    name: Sesame Oil
+  - type: Volume
+    amount: 4.92892504
+    name: Garlic
+    note: minced
+  - type: Volume
+    amount: 1.23223126
+    name: Crushed Red Pepper Flakes
+  - type: Volume
+    amount: 14.7867737
+    name: Peanut Oil
+  - type: ""
+    is-scalable: true
+    amount: 4
+    name: Boneless Skinless Chicken Breasts
+    note: cubed or sliced
+  - type: Volume
+    amount: 473.176758
+    name: Broccoli
+  - type: Volume
+    amount: 473.176758
+    name: Medium-Sized Mushrooms
+    note: halved
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Red Bell Pepper
+  - type: Volume
+    amount: 118.294189
+    name: Frozen Peas
+  - type: Volume
+    amount: 78.862709
+    name: Green Onion
+    note: coarsly chopped
+  - type: Leaves
+    is-scalable: true
+    amount: 10
+    name: Fresh Basil
+directions:
+  - "Cook pasta according to package directions. Drain. Rinse with cold water and drain again. Set aside. "
+  - "To make sauce, together orange juice, hoisin sauce, soy sauce, cornstarch, ginger, sesame oil, garlic and crushed red pepper flakes into medium Bowl. Set aside. "
+  - "Heat oil in a large, non-stick over medium-high. Add chicken and cook, during often, until chicken is lightly browned on the outside but still pink in the center. "
+  - Add broccoli, mushrooms, red pepper. Cook and stir until vegetables are tender-crisp, about 6 minutes. Add 1/4 cup of water to prevent sticking, if necessary.
+  - Add peas and onions. Cook 1 more minute.
+  - Add reserved sauce and basil. Continue cooking until sauce is bubbly and has thickened, about 1 minute.
+  - Add rotini and cook one more minute, just until rotini is heated through. Serve hot.

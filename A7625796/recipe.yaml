@@ -1,0 +1,40 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: true
+    amount: 2
+    name: Roma Tomatoes
+    note: diced
+  - type: ""
+    is-scalable: true
+    amount: 0.5
+    name: Red Onion
+    note: finely chopped
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Fresh Cilantro
+    note: chopped
+  - type: ""
+    is-scalable: false
+    amount: 1
+    name: Lime
+    note: juiced
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Salt
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Pepper
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Coriander
+  - type: Volume
+    amount: 1.64297485
+    name: Cayenne Pepper
+directions:
+  - Toss together diced tomatoes, onion, cilantro, lime juice, salt, pepper, coriander, and cayenne pepper in a medium bowl.
+  - Let salsa sit in the refrigerator for a few hours for flavours to marinade.

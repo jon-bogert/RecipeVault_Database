@@ -1,0 +1,84 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 157.725418
+    name: Sour Cream
+  - type: Volume
+    amount: 157.725418
+    name: Mayonnaise
+  - type: Volume
+    amount: 44.360321
+    name: Lime Juice
+    note: (about one lime's worth)
+  - type: Volume
+    amount: 2.46446252
+    name: Garlic Powder
+  - type: To Taste
+    is-scalable: false
+    amount: 0
+    name: Sriracha Sauce
+  - type: ""
+    is-scalable: true
+    amount: 12
+    name: Tortillas
+    note: (6-inch)
+  - type: Volume
+    amount: 946.353516
+    name: Red Cabbage
+    note: shredded
+  - type: ""
+    is-scalable: true
+    amount: 2
+    name: Avocados
+    note: (Large size), cubed
+  - type: Mass
+    amount: 226.795944
+    name: Cojia cheese
+    note: (or Parmesan)
+  - type: Bunch
+    is-scalable: true
+    amount: 0.5
+    name: Cilantro
+  - type: Wedges
+    is-scalable: true
+    amount: 2
+    name: Lime
+    note: (for the side)
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Red Onion
+    note: diced
+  - type: Mass
+    amount: 907.185791
+    name: Shrimp
+    note: cooked and peeled
+  - type: Cloves
+    is-scalable: true
+    amount: 2
+    name: Garlic
+    note: minced
+  - type: Volume
+    amount: 4.92892504
+    name: Salt
+  - type: Volume
+    amount: 2.46446252
+    name: Black Pepper
+  - type: Volume
+    amount: 2.46446252
+    name: Cumin
+  - type: Volume
+    amount: 2.46446252
+    name: Cayenne Pepper
+  - type: Volume
+    amount: 14.7867737
+    name: Olive Oil
+directions:
+  - Thaw and pat dry shrimp with paper towels and place in a medium bowl.
+  - Combine sauce ingredients in bowl, stir and set aside.
+  - Combine shredded cabbage, diced avocado, cheese, cilantro, and red onion in a large bowl and  mix together. Set aside.
+  - Heat tortillas over oven burner until edges just start to burn.
+  - Stir together olive oil with garlic, salt, pepper, cumin, and cayenne pepper in a large frying pan over medium-high heat.
+  - Add shrimp and cook until heated through, about 5 minutes.
+  - Drain and serve with sauce and topping mix.
+  - Cut lime wedges to squeeze on top of tacos.

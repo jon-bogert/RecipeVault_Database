@@ -1,0 +1,50 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 59.1470947
+    name: Lime Juice
+  - type: Volume
+    amount: 2.46446252
+    name: Crushed Red Pepper Flakes
+  - type: Volume
+    amount: 59.1470947
+    name: Olive Oil
+    note: (+ more)
+  - type: Volume
+    amount: 9.85785007
+    name: Ground Cumin
+  - type: ""
+    is-scalable: true
+    amount: 4
+    name: Chicken Breasts
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Salt
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Black Pepper
+  - type: ""
+    is-scalable: false
+    amount: 2
+    name: Bell Peppers
+    note: (any color), sliced
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Red Onion
+    note: sliced
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Tortillas
+  - type: Wedges
+    is-scalable: false
+    amount: 0
+    name: Lime
+directions:
+  - In a large bowl, wish lime juice, red pepper flakes, listed amount olive oil, and half the cumin. Season chicken with salt and black pepper, then add to bowl and toss to coat. Cover and refrigerate for at least 30 minutes or up to 2 hours.
+  - In a large skillet, over medium heat, heat more olive oil and chicken. Cook until golden brown and cooked through to 165 deg-F. About 8 minutes per side. Transfer to a cutting board. Let rest for 10 minutes, then slice into strips.
+  - Meanwhile, in same skillet over medium heat, combine peppers, onion and remaining cumin. Season with salt and black pepper. Cook, stirring occasionally, until softened, about 7 minutes. Return chicken to skillet and toss until combined.
+  - Transfer chicken mixture to a platter. Serve with tortillas and lime wedges alongside.

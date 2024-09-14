@@ -1,0 +1,68 @@
+version: 0
+ingredients:
+  - type: Mass
+    amount: 226.795944
+    name: Flat Rice Noodles
+  - type: Volume
+    amount: 44.360321
+    name: Peanut Oil
+  - type: Cloves
+    is-scalable: true
+    amount: 3
+    name: Garlic
+    note: minced
+  - type: Mass
+    amount: 226.795944
+    name: Shrimp
+    note: (or Chicken/Tofu)
+  - type: ""
+    is-scalable: true
+    amount: 2
+    name: Eggs
+    note: beaten
+  - type: Volume
+    amount: 236.588379
+    name: Bean Sprouts
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Red Bell Pepper
+    note: sliced
+  - type: ""
+    is-scalable: true
+    amount: 3
+    name: Green Onions
+    note: chopped
+  - type: Volume
+    amount: 118.294189
+    name: Dry Roasted Peanuts
+  - type: ""
+    is-scalable: true
+    amount: 2
+    name: Limes
+  - type: Volume
+    amount: 118.294189
+    name: Cilantro
+    note: chopped
+  - type: Volume
+    amount: 44.360321
+    name: Fish Sauce
+  - type: Volume
+    amount: 14.7867737
+    name: Reduced Sodium Soy Sauce
+  - type: Volume
+    amount: 73.9338684
+    name: Golden Sugar
+  - type: Volume
+    amount: 14.7867737
+    name: Sriracha Sauce
+  - type: Volume
+    amount: 29.5735474
+    name: Peanut Butter
+directions:
+  - Cook noodles according to package instructions and rinse under cold water immediately after.
+  - Combine fish sauce, soy sauce, sugar, rice vinegar, sriracha sauce, and peanut butter in a bowl and set aside.
+  - Heat 1/2 tbsp of oil in a large saucepan over medium-high heat. Add meat, garlic, and bell pepper.
+  - Push everything to the side of the pan. Add a little more oil and add beaten eggs. Scramble the eggs and break them into small pieces.
+  - Add noodles, sauce, and bean sprouts.
+  - Garnish with green onions, peanuts, cilantro, and lime wedges.

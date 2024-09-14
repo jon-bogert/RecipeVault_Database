@@ -1,15 +1,15 @@
 content:
-  - id: 02191625
-    name: Marinara Sauce
-    tags:
-      - italian
-      - pasta
-    category: Meal
   - id: FD192511
     name: Faster-than-Frozen Margherita Pizza
     tags:
       - quick
       - italian
+    category: Meal
+  - id: 02191625
+    name: Marinara Sauce
+    tags:
+      - italian
+      - pasta
     category: Meal
   - id: 97E12221
     name: Pan Fried Broccoli
@@ -23,9 +23,6 @@ content:
       - italian
       - pasta
     category: Meal
-  - id: 55D0EADF
-    name: Cosmopolitan
-    category: Cocktail
   - id: CBD67906
     name: Italian Sausage Meatballs
     tags:
@@ -37,9 +34,65 @@ content:
       - italian
       - pasta
     category: Meal
+  - id: 55D0EADF
+    name: Cosmopolitan
+    category: Cocktail
   - id: BA85F270
     name: Italian Cast Iron Chicken
     tags:
       - entree
       - italian
+    category: Meal
+  - id: 3823E6A2
+    name: Indian Creamed Spinach
+    tags:
+      - indian
+      - side
+      - vegetable
+    category: Meal
+  - id: B65D735B
+    name: Orange-Ginger Chicken Stir Fry
+    tags:
+      - all-in-one
+      - asian
+    category: Meal
+  - id: 21651FB3
+    name: Panino Di Carne Italiano
+    tags:
+      - lunch
+      - sandwich
+      - italian
+    category: Meal
+  - id: A7625796
+    name: Taco Salsa (Pico De Gallo)
+    tags:
+      - mexican
+      - topping
+    category: Meal
+  - id: DDF74DF7
+    name: Pad Thai
+    tags:
+      - asian
+      - all-in-one
+    category: Meal
+  - id: 244B7F86
+    name: Tacos Supreme
+    tags:
+      - mexican
+      - handheld
+      - all-in-one
+    category: Meal
+  - id: ABD53EE4
+    name: Shrimp Tacos
+    tags:
+      - mexican
+      - handheld
+      - all-in-one
+    category: Meal
+  - id: 111CCFF1
+    name: Chicken Fajitas
+    tags:
+      - mexican
+      - handheld
+      - all-in-one
     category: Meal
