@@ -1,0 +1,33 @@
+version: 0
+ingredients:
+  - type: Mass
+    amount: 300
+    name: Mayonnaise
+  - type: Cloves
+    is-scalable: true
+    amount: 6
+    name: "Garlic "
+  - type: Volume
+    amount: 29.5736008
+    name: Lemon Juice
+  - type: Mass
+    amount: 15
+    name: Anchovy Paste
+  - type: Volume
+    amount: 29.5736008
+    name: Water
+  - type: Volume
+    amount: 39.4313354
+    name: Olive Oil
+  - type: Mass
+    amount: 45
+    name: Parmesan Cheese
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Salt
+  - type: Volume
+    amount: 3.69668984
+    name: Black Pepper
+directions:
+  - Add Ingredients to blender and blend until smooth
