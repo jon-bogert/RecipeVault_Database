@@ -1,0 +1,32 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Salt
+    note: both coarse and fine
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: Volume
+    amount: 44.3602486
+    name: Tequila
+  - type: Volume
+    amount: 29.5734997
+    name: Cointreau
+  - type: Volume
+    amount: 22.1801243
+    name: Lime Juice
+  - type: Volume
+    amount: 7.39337492
+    name: Agave Syrup
+  - type: Wedge/Wheel
+    is-scalable: true
+    amount: 1
+    name: "Lime "
+    note: for garnish
+directions:
+  - Rim cocktail glass or rocks glass with salt with excess lime juice.
+  - Combine tequila, Cointreau, lime juice, and agave syrup in a shaker with ice.
+  - Strain into a cocktail glass or in rocks glass over new ice.

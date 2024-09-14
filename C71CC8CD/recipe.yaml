@@ -1,0 +1,25 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: Volume
+    amount: 29.5734997
+    name: White Rum
+  - type: Volume
+    amount: 14.7867498
+    name: Simple Syrup
+  - type: Volume
+    amount: 22.1801243
+    name: Lime Juice
+  - type: Wheel or Wedge
+    is-scalable: true
+    amount: 1
+    name: "Lime "
+    note: for garnish
+directions:
+  - Combine rum, simple syrup, and lime juice in a shaker with ice.
+  - Strain into cocktail or rocks glass.
+  - Garnish with lime wheel or wedge.
+notes: Add friut syrup (like strawberry) with ice in blender for frozen daiquiri. Add half a banana or avocado in a blender (no ice) for Banana/Avocado Daiquiri.

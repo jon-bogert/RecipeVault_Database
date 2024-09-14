@@ -1,0 +1,30 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: Volume
+    amount: 59.1469994
+    name: "Whiskey "
+    note: (Rye or Bourbon)
+  - type: Volume
+    amount: 22.1801243
+    name: Sweet Vermouth
+  - type: Dashes
+    is-scalable: true
+    amount: 3
+    name: "Agnostura Bitters "
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Brandy Cherry
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Lemon Twist
+directions:
+  - Combine whiskey, vermouth, and bitters in a mixing glass with ice and stir until chilled.
+  - Strain into a cocktail glass with no ice, or a rocks glass with a large ice cube.
+  - Add one or both of a cherry and lemon twist as garnish, optionally on a toothpick (you can also leave the cherry to sit in the bottom of the cocktail glass).
+notes: Can use dry vermouth for "Dry Manhattan"
