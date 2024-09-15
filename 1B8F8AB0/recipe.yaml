@@ -1,0 +1,27 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: true
+    amount: 2
+    name: Eggs
+  - type: Volume
+    amount: 157.725342
+    name: Milk
+  - type: Volume
+    amount: 118.293999
+    name: flour
+  - type: Volume
+    amount: 14.7868004
+    name: Butter
+    note: melted
+  - type: Volume
+    amount: 4.92891979
+    name: sugar
+  - type: Volume
+    amount: 1.23222995
+    name: Vanilla
+directions:
+  - Mix ingredients in a bowl.
+  - Add less than 1/2 cup of batter into an 8 inch pan.
+  - Cook for about 10 seconds over medium heat.
+notes: Makes about 4 crepes.

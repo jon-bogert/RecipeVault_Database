@@ -5,12 +5,24 @@ content:
       - italian
       - pasta
     category: Meal
+  - id: C8EC0020
+    name: Flat White Martini
+    category: Cocktail
+  - id: 28AF66B1
+    name: Tex-Mex Buddha Bowl
+    tags:
+      - salad
+      - all-in-one
+    category: Meal
   - id: FD192511
     name: Faster-than-Frozen Margherita Pizza
     tags:
       - quick
       - italian
     category: Meal
+  - id: AF1144A3
+    name: Chocolate Chip Cookies
+    category: Dessert
   - id: 49A1B902
     name: Old Fashioned
     category: Cocktail
@@ -51,6 +63,9 @@ content:
       - italian
       - pasta
     category: Meal
+  - id: FA55E2F0
+    name: Godfather
+    category: Cocktail
   - id: BA85F270
     name: Italian Cast Iron Chicken
     tags:
@@ -73,6 +88,9 @@ content:
       - all-in-one
       - asian
     category: Meal
+  - id: B40159E6
+    name: White Russian
+    category: Cocktail
   - id: 21651FB3
     name: Panino Di Carne Italiano
     tags:
@@ -134,9 +152,48 @@ content:
   - id: 2E2A533A
     name: Mint Julep
     category: Cocktail
+  - id: FCCA0B78
+    name: Medicina Latina
+    category: Cocktail
+  - id: B6AE80FB
+    name: Thai Peanut Buddha Bowl
+    tags:
+      - salad
+      - all-in-one
+    category: Meal
   - id: 8B9A2583
     name: Mojito
     category: Cocktail
   - id: 26429553
     name: Negroni
+    category: Cocktail
+  - id: 754BEAAE
+    name: Sex on the Beach
+    category: Cocktail
+  - id: 1B8F8AB0
+    name: Crepes
+    category: Meal
+  - id: 16AA3F1A
+    name: Penicillin
+    category: Cocktail
+  - id: 6BC1B148
+    name: Chocolate Martini
+    category: Cocktail
+  - id: CA993BB0
+    name: Bailey's Chocolate Martini
+    category: Cocktail
+  - id: AA2746F6
+    name: B-52
+    category: Cocktail
+  - id: 1BA8B162
+    name: Amaretto Sour
+    category: Cocktail
+  - id: 6C29C8CB
+    name: Whiskey Sour
+    category: Cocktail
+  - id: 364D6605
+    name: Lemon Drop
+    category: Cocktail
+  - id: A8E18E0E
+    name: Naughty Dog
     category: Cocktail

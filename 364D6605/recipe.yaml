@@ -1,0 +1,21 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: Volume
+    amount: 44.3602486
+    name: Vodka
+  - type: Volume
+    amount: 14.7867498
+    name: Triple Sec
+  - type: Volume
+    amount: 29.5734997
+    name: Lemon Juice
+  - type: Volume
+    amount: 9.85783958
+    name: Icing Sugar
+directions:
+  - Combine ingredients in a shaker with ice.
+  - Strain into a cocktail glass.

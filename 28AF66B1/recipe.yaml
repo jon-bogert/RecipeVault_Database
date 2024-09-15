@@ -1,0 +1,80 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 236.587997
+    name: Cilantro
+  - type: Volume
+    amount: 118.293999
+    name: Sour Cream
+  - type: Volume
+    amount: 44.3602486
+    name: Lime Juice
+  - type: Cloves
+    is-scalable: true
+    amount: 2
+    name: "Garlic "
+  - type: Volume
+    amount: 59.1469994
+    name: Olive Oil
+  - type: Volume
+    amount: 7.39337969
+    name: White Wine Vinegar
+  - type: Volume
+    amount: 0.616114974
+    name: Salt
+  - type: Volume
+    amount: 1.23222995
+    name: Cumin
+  - type: Volume
+    amount: 283.905609
+    name: Mayonnaise
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Lettuce
+    note: chopped
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Quinoa
+    note: red, white or mixed
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Red Pepper
+    note: sliced
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Green Onion
+    note: chopped
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Grape Tomatoes
+    note: sliced
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Black Beans
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Corn
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Cooked Chicken Breast
+    note: optional
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Cheddar Cheese
+    note: shredded
+directions:
+  - Add cilantro, sour cream, lime juice, garlic, olive oil, vinegar, salt, cumin, and mayo into a blender and blend.
+  - Cook quinoa about 1.5 water to 1 quinoa by volume. Cook like rice.
+  - Combine lettuce, quinoa, pepper, green onion, beans, corn, and tomatoes into serving bowls or plates.
+  - Optionally, slice chicken into strips and add to salad.
+  - Add cheddar cheese and dressing on top.
+notes: Makes about 1.5 cup of dressing.

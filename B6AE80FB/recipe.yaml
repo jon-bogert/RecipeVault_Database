@@ -1,0 +1,77 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 59.1469994
+    name: Rice Vinegar
+  - type: Volume
+    amount: 4.92891979
+    name: Ginger
+    note: grated
+  - type: Volume
+    amount: 4.92891979
+    name: Maple Syrup
+  - type: Volume
+    amount: 59.1469994
+    name: Olive Oil
+  - type: Volume
+    amount: 29.5736008
+    name: Sesame Oil
+  - type: Volume
+    amount: 29.5736008
+    name: Peanut Butter
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Lettuce
+    note: chopped
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Quinoa
+    note: red, white or mixed
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Carrot
+    note: shredded or sliced
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Red Cabbage
+    note: shredded
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Cucumber
+    note: sliced
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Red Pepper
+    note: sliced
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Green Onion
+    note: chopped
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Cooked Chicken Breast
+    note: optional
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Sesame Seeds
+    note: roasted
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Peanuts
+directions:
+  - Add rice vinegar, ginger, maple syrup, olive oil, sesame oil, and peanut butter into a blender and blend.
+  - Cook quinoa about 1.5 water to 1 quinoa by volume. Cook like rice.
+  - Combine lettuce, quinoa, carrot, cabbage, cucumber, pepper, green onion serving bowls or plates.
+  - Optionally, slice chicken into strips and add to salad.
+  - Add peanuts, sesame seeds and dressing on top.
+notes: Makes about 1 cup of dressing.

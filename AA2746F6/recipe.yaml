@@ -1,0 +1,20 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: Volume
+    amount: 29.5734997
+    name: Coffee Liqueur
+  - type: Volume
+    amount: 29.5734997
+    name: Bailey's Irish Cream
+  - type: Volume
+    amount: 29.5734997
+    name: "Orange Liqueur "
+    note: (Grand Marnier)
+directions:
+  - Combine coffee liqueur, bailey's, and orange liqueur in a shaker with ice.
+  - Strain into two 1.5oz shot glasses, or a rocks glass.
+notes: Makes 2x 1.5oz or 3x 1oz shots.

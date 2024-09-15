@@ -1,0 +1,28 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: Volume
+    amount: 59.1469994
+    name: Scotch
+  - type: Volume
+    amount: 29.5734997
+    name: Lemon Juice
+  - type: Pumps
+    is-scalable: true
+    amount: 2
+    name: "Ginger Syrup "
+  - type: Volume
+    amount: 11.0900621
+    name: Honey Syrup
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Candied Ginger
+    note: for garnish
+directions:
+  - Add scotch, lemon juice, ginger syrup, and honey syrup into shaker with ice.
+  - Strain into rocks glass
+  - Garnish with candied ginger on a toothpick.

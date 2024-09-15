@@ -1,0 +1,28 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: Volume
+    amount: 29.5734997
+    name: Coffee Liqueur
+  - type: Volume
+    amount: 44.3602486
+    name: Rum
+  - type: Volume
+    amount: 73.9337463
+    name: Root Beer
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Whipping Cream
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Nutmeg
+    note: for garnish
+directions:
+  - Add coffee liqueur, rum, and root beer in rocks glass with ice.
+  - Add a float of whipping cream.
+  - Garnish with nutmeg.

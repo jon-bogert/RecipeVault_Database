@@ -1,0 +1,36 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: true
+    amount: 2.25
+    name: All-Purpose Flour
+  - type: Volume
+    amount: 4.92891979
+    name: Baking Soda
+  - type: Volume
+    amount: 2.4644599
+    name: Salt
+  - type: Volume
+    amount: 236.587997
+    name: Butter
+  - type: Volume
+    amount: 177.440994
+    name: White Sugar
+  - type: Volume
+    amount: 177.440994
+    name: Golden Sugar
+  - type: Volume
+    amount: 4.92891979
+    name: Vanilla Extract
+  - type: ""
+    is-scalable: true
+    amount: 2
+    name: Eggs
+  - type: Volume
+    amount: 473.175995
+    name: Semi-Sweet Chocolate Chips
+directions:
+  - Preheat oven to 375 deg-F.
+  - Mix ingredients in a large bowl.
+  - Roll into balls, and place on a baking sheet lined with parchment paper.
+  - Bake for 8-10 minutes and let cool before serving.

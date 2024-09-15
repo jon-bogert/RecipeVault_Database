@@ -1,0 +1,28 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: Volume
+    amount: 59.1469994
+    name: Amaretto
+  - type: Volume
+    amount: 29.5734997
+    name: Lemon Juice
+  - type: Volume
+    amount: 29.5734997
+    name: Simple Syrup
+  - type: Twist
+    is-scalable: false
+    amount: 0
+    name: "Lemon "
+    note: for garnish
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Brandy Cherry
+    note: for garnish
+directions:
+  - Combine amaretto, simple syrup, and lemon juice, in a shaker with ice.
+  - Strain into a rocks glass over new ice.

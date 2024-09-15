@@ -1,0 +1,28 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: Volume
+    amount: 59.1469994
+    name: Bourbon
+  - type: Volume
+    amount: 22.1801243
+    name: simple syrup
+  - type: Volume
+    amount: 29.5734997
+    name: Lemon Juice
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Egg Whites
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Brandy Cherry
+    note: for garnish
+directions:
+  - Combine egg whites in a shaker WITHOUT ice.
+  - After dry shaking add bourbon, simple syrup, lemon juice, and shake with ice.
+  - Strain into a cocktail glass and garnish with brandy cherry.

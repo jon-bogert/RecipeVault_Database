@@ -1,0 +1,16 @@
+version: 0
+ingredients:
+  - type: Cube
+    is-scalable: false
+    amount: 0
+    name: "Ice "
+    note: large
+  - type: Volume
+    amount: 29.5734997
+    name: Amaretto
+  - type: Volume
+    amount: 29.5734997
+    name: Scotch
+directions:
+  - Combine ingredients in rocks glass.
+notes: Replace scotch with vodka for "Godmother"
