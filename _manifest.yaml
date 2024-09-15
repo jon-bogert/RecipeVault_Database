@@ -1,16 +1,22 @@
 content:
-  - id: FD192511
-    name: Faster-than-Frozen Margherita Pizza
-    tags:
-      - quick
-      - italian
-    category: Meal
   - id: 02191625
     name: Marinara Sauce
     tags:
       - italian
       - pasta
     category: Meal
+  - id: FD192511
+    name: Faster-than-Frozen Margherita Pizza
+    tags:
+      - quick
+      - italian
+    category: Meal
+  - id: 49A1B902
+    name: Old Fashioned
+    category: Cocktail
+  - id: B2FEE108
+    name: Moscow Mule
+    category: Cocktail
   - id: 97E12221
     name: Pan Fried Broccoli
     tags:
@@ -23,6 +29,12 @@ content:
       - italian
       - pasta
     category: Meal
+  - id: 55D0EADF
+    name: Cosmopolitan
+    category: Cocktail
+  - id: 3C9442DC
+    name: Long Island Iced Tea
+    category: Cocktail
   - id: A3C111E9
     name: Kamikaze
     tags:
@@ -39,12 +51,6 @@ content:
       - italian
       - pasta
     category: Meal
-  - id: 3C9442DC
-    name: Long Island Iced Tea
-    category: Cocktail
-  - id: 55D0EADF
-    name: Cosmopolitan
-    category: Cocktail
   - id: BA85F270
     name: Italian Cast Iron Chicken
     tags:
@@ -58,14 +64,14 @@ content:
       - side
       - vegetable
     category: Meal
+  - id: 542708B2
+    name: Caesar Dressing
+    category: Meal
   - id: B65D735B
     name: Orange-Ginger Chicken Stir Fry
     tags:
       - all-in-one
       - asian
-    category: Meal
-  - id: 542708B2
-    name: Caesar Dressing
     category: Meal
   - id: 21651FB3
     name: Panino Di Carne Italiano
@@ -80,17 +86,17 @@ content:
       - mexican
       - topping
     category: Meal
-  - id: DDF74DF7
-    name: Pad Thai
-    tags:
-      - asian
-      - all-in-one
-    category: Meal
   - id: 244B7F86
     name: Tacos Supreme
     tags:
       - mexican
       - handheld
+      - all-in-one
+    category: Meal
+  - id: DDF74DF7
+    name: Pad Thai
+    tags:
+      - asian
       - all-in-one
     category: Meal
   - id: ABD53EE4
@@ -116,6 +122,21 @@ content:
   - id: CDD046E0
     name: Manhattan
     category: Cocktail
+  - id: 9784E61D
+    name: Dark 'n' Stormy
+    category: Cocktail
   - id: CD8E7E99
     name: Margarita
+    category: Cocktail
+  - id: 380AB22F
+    name: Martini
+    category: Cocktail
+  - id: 2E2A533A
+    name: Mint Julep
+    category: Cocktail
+  - id: 8B9A2583
+    name: Mojito
+    category: Cocktail
+  - id: 26429553
+    name: Negroni
     category: Cocktail

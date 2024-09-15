@@ -1,0 +1,31 @@
+version: 0
+ingredients:
+  - type: Leaves
+    is-scalable: true
+    amount: 6
+    name: "Mint "
+  - type: Volume
+    amount: 29.5734997
+    name: Simple Syrup
+  - type: Volume
+    amount: 9.85783958
+    name: Water
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+    note: crushed
+  - type: Volume
+    amount: 59.1469994
+    name: Bourbon
+  - type: Sprig
+    is-scalable: false
+    amount: 0
+    name: "Mint "
+    note: for garnish
+directions:
+  - Add mint, simple syrup, and water to julep or rocks glass.
+  - Lightly muddle to combine.
+  - Add crushed ice to fill glass.
+  - Top with bourbon and stir to combine
+  - Add mint sprig as garnish

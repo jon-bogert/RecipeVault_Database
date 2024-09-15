@@ -1,0 +1,42 @@
+version: 0
+ingredients:
+  - type: Leaves
+    is-scalable: true
+    amount: 6
+    name: "Mint "
+    note: bruised
+  - type: Volume
+    amount: 14.7867498
+    name: Simple Syrup
+  - type: Volume
+    amount: 29.5734997
+    name: White Rum
+  - type: Volume
+    amount: 22.1801243
+    name: Lime Juice
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Club Soda
+  - type: Sprig
+    is-scalable: false
+    amount: 0
+    name: "Mint "
+    note: for garnish
+  - type: Wheel/Wedge
+    is-scalable: false
+    amount: 0
+    name: "Lime "
+    note: for garnish
+directions:
+  - Add mint, simple syrup, and lime juice to collins glass.
+  - Lightly muddle to combine.
+  - Add Ice and shake ingredients, using the glass as half the shaker.
+  - Add more ice if necessary.
+  - Top with club soda.
+  - Add mint sprig and/or lime wheel or wedge as garnish.
+notes: "\"Cojito\" uses coconut rum."

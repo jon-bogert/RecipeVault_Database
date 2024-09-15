@@ -1,0 +1,28 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+    note: crushed
+  - type: Volume
+    amount: 44.3602486
+    name: Vodka
+  - type: Volume
+    amount: 22.1801243
+    name: Lime Juice
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ginger Beer
+  - type: Wedge/Wheel
+    is-scalable: false
+    amount: 0
+    name: "Lime "
+    note: for garnish
+directions:
+  - Fill mule mug or rocks glass with crushed ice.
+  - Add vodka and lime juice.
+  - Top with ginger beer and stir to combine.
+  - Garnish with lime wedge or wheel. Optionally, also add a mint sprig.
+notes: Use other spirits like tequila or whiskey for different variations of the mule. Use dark spiced rum (like Kraken) for "Dark 'n' Stormy".

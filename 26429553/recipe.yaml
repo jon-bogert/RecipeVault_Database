@@ -1,0 +1,25 @@
+version: 0
+ingredients:
+  - type: Cube
+    is-scalable: false
+    amount: 1
+    name: "Ice "
+    note: large
+  - type: Volume
+    amount: 29.5734997
+    name: Gin
+  - type: Volume
+    amount: 29.5734997
+    name: Campari
+  - type: Volume
+    amount: 29.5734997
+    name: Sweet Vermouth
+  - type: Twist
+    is-scalable: false
+    amount: 0
+    name: "Orange or Lemon "
+directions:
+  - Place large ice cube in rocks glass.
+  - Add gin, and Campari, and vermouth and stir
+  - Garnish with an orange or lime twist
+notes: "\"Negroni sbagliato\" uses prosecco instead of gin. \"Avavoni/Tegroni\" uses tequila instead of gin."

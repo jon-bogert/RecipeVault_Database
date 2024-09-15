@@ -1,0 +1,21 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: Volume
+    amount: 88.7204971
+    name: Gin
+  - type: Volume
+    amount: 7.39337492
+    name: Dry Vermouth
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Olives
+directions:
+  - "\"Rinse\" cocktail glass with dry vermouth and discard."
+  - Add Gin to a mixing glass with ice and stir until chilled.
+  - Strain into a glass and serve with olives on a toothpick.
+notes: Optionally swap Gin for vodka and olives for a lemon twist. Only shake vodka version if necissary. Wet martini has half ounze of vermouth in the drink. "50-50" uses equal parts vermouth and gin. "Perfect Martini" uses equal parts dry and sweet vermouth. "Dirty Martini" adds olive brine.

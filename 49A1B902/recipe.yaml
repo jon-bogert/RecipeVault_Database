@@ -1,0 +1,36 @@
+version: 0
+ingredients:
+  - type: Cube
+    is-scalable: true
+    amount: 1
+    name: "Sugar "
+    note: (or barspoon loose)
+  - type: Dashes
+    is-scalable: true
+    amount: 4
+    name: "Agnostura Bitters "
+  - type: Volume
+    amount: 59.1469994
+    name: Bourbon
+  - type: Cube
+    is-scalable: true
+    amount: 1
+    name: "Ice "
+    note: large
+  - type: Twist
+    is-scalable: false
+    amount: 0
+    name: "Orange "
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Brandy Cherry
+    note: optional
+directions:
+  - Add sugar to rocks glass along with angostura bitters. Stir to incorporate.
+  - Add bourbon to the glass and stir until most of the sugar-bitters mixture is dissolved. This should take some time.
+  - Add large ice cube and stir until chilled.
+  - Cut a fresh orange twist. use a lighter with squeezing the twist into the glass. This should send small sparks into the drink.
+  - Rub the oils form the twist along the rim of the glass and add into drink.
+  - Optionally, add a brandy cherry.
+notes: Can also use rye whiskey instead of bourbon.
