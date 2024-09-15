@@ -1,0 +1,31 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 473.175995
+    name: Fresh Basil
+  - type: Volume
+    amount: 78.8626709
+    name: Parmesan
+    note: grated
+  - type: Volume
+    amount: 59.1469994
+    name: Pine Nuts
+    note: toasted
+  - type: Cloves
+    is-scalable: true
+    amount: 2
+    name: "Garlic "
+  - type: Volume
+    amount: 1.23222995
+    name: Salt
+  - type: Volume
+    amount: 1.23222995
+    name: Black Pepper
+  - type: Volume
+    amount: 78.8626709
+    name: Olive Oil
+directions:
+  - To the bowl of a food processor, add basil, parmesan, pine nuts, garlic, salt and pepper.
+  - Get the blades whirling, then stream olive oil through the feed tube.
+  - Process until smooth.
+notes: Can substitute pine nuts for toasted sunflower seeds.

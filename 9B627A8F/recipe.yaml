@@ -1,0 +1,41 @@
+version: 0
+ingredients:
+  - type: Mass
+    amount: 680
+    name: Roma tomatoes
+    note: sliced into 4 rings
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Olive oil
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Salt
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Black Pepper
+  - type: Cloves
+    is-scalable: true
+    amount: 4
+    name: "Garlic "
+  - type: Volume
+    amount: 236.587997
+    name: Basil Leaves
+  - type: Volume
+    amount: 78.8626709
+    name: Parmesan
+    note: grated
+  - type: Volume
+    amount: 59.1469994
+    name: Pine Nuts
+    note: toasted
+directions:
+  - Preheat oven to 400 deg-F.
+  - Put tomatoes in a large container with lid along with 2 tbsp of olive oil, salt, and pepper. Close lid and mix
+  - Wrap garlic cloves in aluminum foil.
+  - Lay out tomatoes on a parchment-lined baking sheet and bake along with the garlic for 45 minutes or so.
+  - Let Tomatoes cool, then add tomatoes, garlic, basil, parmesan, and pine nuts to a food processor.
+  - Add olive oil through the feed tube while mixing.
+notes: Can substitute pine nuts for toasted sunflower seeds.

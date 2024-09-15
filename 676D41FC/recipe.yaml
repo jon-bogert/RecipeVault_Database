@@ -1,0 +1,46 @@
+version: 0
+ingredients:
+  - type: Mass
+    amount: 340.194
+    name: Penne
+  - type: Volume
+    amount: 14.7868004
+    name: Olive Oil
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Red Bell Pepper
+    note: thinly sliced
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Red Onion
+    note: sliced
+  - type: Volume
+    amount: 709.763977
+    name: Baby Spinach
+  - type: ""
+    is-scalable: true
+    amount: 4
+    name: Chicken Breasts
+    note: cubed
+  - type: Volume
+    amount: 78.8626709
+    name: "Roasted Tomato Pesto "
+    note: (see recipe)
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Red Wine Vinegar
+    note: to taste
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Parmesan
+    note: for garnish
+directions:
+  - Cook chicken in skillet until cooked through to 165 deg-F.
+  - In a large pot, cook penne according to package directions or until al dente.
+  - While pasta is cooking, heat olive oil in a deep 12-inch, non-stick skillet over medium-high heat. Add bell peppers and onions. Cook and stir until vegetables are tender, about 5 minutes.
+  - Add Spinach and 1/4 water. Cook and stir until spinach is wilted and water has evaporated, about 2 minutes.
+  - Reduce heat to low. Add drained pasta to skillet along with the pesto. If you like more pesto, add more pesto! You can adjust this recipe to suit your tastes. Add ref wine vinegar to taste, and sprinkle with parmesan and pepper before serving if desired.

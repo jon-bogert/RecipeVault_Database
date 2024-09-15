@@ -5,6 +5,12 @@ content:
       - italian
       - pasta
     category: Meal
+  - id: BBB995B7
+    name: Classic Basil Pesto
+    tags:
+      - italian
+      - sauce
+    category: Meal
   - id: C8EC0020
     name: Flat White Martini
     category: Cocktail
@@ -124,6 +130,9 @@ content:
       - handheld
       - all-in-one
     category: Meal
+  - id: 676D41FC
+    name: Chicken Penne Florentine
+    category: Meal
   - id: 111CCFF1
     name: Chicken Fajitas
     tags:
@@ -140,6 +149,9 @@ content:
   - id: CDD046E0
     name: Manhattan
     category: Cocktail
+  - id: 11BAA25D
+    name: Avocado Chocolate Pudding
+    category: Dessert
   - id: 9784E61D
     name: Dark 'n' Stormy
     category: Cocktail
@@ -197,3 +209,9 @@ content:
   - id: A8E18E0E
     name: Naughty Dog
     category: Cocktail
+  - id: 9B627A8F
+    name: Roasted Tomato Pesto
+    tags:
+      - italian
+      - sauce
+    category: Meal
