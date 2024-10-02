@@ -1,0 +1,58 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 236.587997
+    name: Slivered Almonds
+  - type: Slices
+    is-scalable: true
+    amount: 10
+    name: "Cooked Bacon "
+    note: chopped
+  - type: ""
+    is-scalable: true
+    amount: 3
+    name: Romain Hearts
+    note: chopped
+  - type: Volume
+    amount: 473.175995
+    name: Grape Tomatoes
+    note: sliced
+  - type: Volume
+    amount: 236.587997
+    name: Swiss Cheese
+    note: shredded
+  - type: Volume
+    amount: 118.293999
+    name: Parmesan Cheese
+    note: finely shredded
+  - type: Volume
+    amount: 354.881989
+    name: croutons
+  - type: Volume
+    amount: 177.440994
+    name: Light Olive Oil
+  - type: Volume
+    amount: 78.8626709
+    name: Lemon Juice
+  - type: Cloves
+    is-scalable: true
+    amount: 2
+    name: "Garlic "
+    note: minced
+  - type: Volume
+    amount: 4.92891979
+    name: Dijon Mustard
+  - type: Volume
+    amount: 7.39337969
+    name: Honey
+  - type: Volume
+    amount: 3.69668984
+    name: Salt
+  - type: Volume
+    amount: 2.4644599
+    name: Black Pepper
+directions:
+  - To toast almonds, Preheat oven to 350 deg-F. Spread almonds into an even layer on a small baking sheet. Bake in oven until just lightly golden brown, about 6-10 minutes. Toss halfway through toasting. When done, set aside to cool.
+  - To make dressing, Add olive oil lemon juice, garlic, dijon, and honey to a jar. Add salt and pepper. Cover and seal with lid, shake to blend. If needed, stir up honey if it sticks to the bottom of jar. Chill in the refrigerator while you prepare the remainder.
+  - Prepare the salad. Rinse Lettuce under cold water and run through a salad spinner in batches to dry well. Add lettuce to a large serving bowl.
+  - Add in almonds, bacon, tomatoes, swiss and parmesan cheese. Shake dressing again and pour over salad. Toss salad, then add croutons and toss again.

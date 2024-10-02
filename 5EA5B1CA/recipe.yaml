@@ -1,0 +1,48 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: true
+    amount: 3
+    name: Roma Tomatoes
+    note: each sliced into 4 rings each
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Olive Oil
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Salt
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Pepper
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Garlic Powder
+  - type: ""
+    is-scalable: true
+    amount: 4
+    name: Chicken Breasts
+    note: boneless skinless
+  - type: Mass
+    amount: 170.097
+    name: Mozzarella Fresca
+    note: cut into 1/4-inch slices
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Balsamic Reduction
+  - type: Volume
+    amount: 59.1469994
+    name: Basil
+    note: chopped
+directions:
+  - Preheat oven to 400 deg-F.
+  - Cup up Tomatoes and mix them in a bowl with olive oil, salt, pepper, and garlic powder.
+  - Line a 10 x 15 inch rimmed baking sheet with parchment paper. Arrange tomatoes in a single layer on pan, cut-side up.
+  - Place tomatoes in oven and roast for 30 to 40 minutes, or until they appear lightly caramelized and edges begin to burn. Crank on the boiler for a minute or two to get the last bit of browning magic. Remove tomatoes from the oven and set aside.
+  - While tomatoes are roasting, prepare chicken by pounding each breast to an equal thickness and sprinkle with salt and pepper. Add chicken to a pan with some olive oil and cook until lightly browned on one side. Flip the chicken over and reduce heat to low. Cook covered for about 15 minutes or to an internal temperature of 165 deg-F.
+  - Carefully spoon off and discard liquid from the skillet and return to stovetop over low heat. Top each chicken breast with mozzarella and roasted tomatoes. Cover for another 2-3 minutes to allow for the cheese to melt. Drizzle with balsamic reduction and top with chopped basil. Add fresh ground pepper if desired.
+notes: Can use "cocktail" tomatoes instead of Roma tomatoes.

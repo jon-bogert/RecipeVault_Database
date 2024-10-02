@@ -26,12 +26,6 @@ content:
       - quick
       - italian
     category: Meal
-  - id: AF1144A3
-    name: Chocolate Chip Cookies
-    category: Dessert
-  - id: 49A1B902
-    name: Old Fashioned
-    category: Cocktail
   - id: B2FEE108
     name: Moscow Mule
     category: Cocktail
@@ -41,6 +35,12 @@ content:
       - side
       - vegetable
     category: Meal
+  - id: AF1144A3
+    name: Chocolate Chip Cookies
+    category: Dessert
+  - id: 49A1B902
+    name: Old Fashioned
+    category: Cocktail
   - id: 1FEB957E
     name: Garlic Prawn White Wine Pasta
     tags:
@@ -130,6 +130,9 @@ content:
       - handheld
       - all-in-one
     category: Meal
+  - id: 5EA5B1CA
+    name: Cheesy Caprese Chicken
+    category: Meal
   - id: 676D41FC
     name: Chicken Penne Florentine
     category: Meal
@@ -214,4 +217,10 @@ content:
     tags:
       - italian
       - sauce
+    category: Meal
+  - id: BA7AE99F
+    name: Salad de Maison (The Best Salad)
+    tags:
+      - salad
+      - side
     category: Meal
