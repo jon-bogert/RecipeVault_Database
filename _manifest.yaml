@@ -1,10 +1,4 @@
 content:
-  - id: 02191625
-    name: Marinara Sauce
-    tags:
-      - italian
-      - pasta
-    category: Meal
   - id: BBB995B7
     name: Classic Basil Pesto
     tags:
@@ -26,6 +20,15 @@ content:
       - quick
       - italian
     category: Meal
+  - id: 02191625
+    name: Marinara Sauce
+    tags:
+      - italian
+      - pasta
+    category: Meal
+  - id: 49A1B902
+    name: Old Fashioned
+    category: Cocktail
   - id: B2FEE108
     name: Moscow Mule
     category: Cocktail
@@ -38,39 +41,33 @@ content:
   - id: AF1144A3
     name: Chocolate Chip Cookies
     category: Dessert
-  - id: 49A1B902
-    name: Old Fashioned
-    category: Cocktail
   - id: 1FEB957E
     name: Garlic Prawn White Wine Pasta
     tags:
       - italian
       - pasta
     category: Meal
-  - id: 55D0EADF
-    name: Cosmopolitan
-    category: Cocktail
   - id: 3C9442DC
     name: Long Island Iced Tea
     category: Cocktail
-  - id: A3C111E9
-    name: Kamikaze
-    tags:
-      - shot
+  - id: 55D0EADF
+    name: Cosmopolitan
     category: Cocktail
-  - id: CBD67906
-    name: Italian Sausage Meatballs
-    tags:
-      - italian
-    category: Meal
   - id: 90E27993
     name: Pasta Alla Vodka
     tags:
       - italian
       - pasta
     category: Meal
-  - id: FA55E2F0
-    name: Godfather
+  - id: CBD67906
+    name: Italian Sausage Meatballs
+    tags:
+      - italian
+    category: Meal
+  - id: A3C111E9
+    name: Kamikaze
+    tags:
+      - shot
     category: Cocktail
   - id: BA85F270
     name: Italian Cast Iron Chicken
@@ -78,6 +75,9 @@ content:
       - entree
       - italian
     category: Meal
+  - id: FA55E2F0
+    name: Godfather
+    category: Cocktail
   - id: 3823E6A2
     name: Indian Creamed Spinach
     tags:
@@ -85,18 +85,15 @@ content:
       - side
       - vegetable
     category: Meal
-  - id: 542708B2
-    name: Caesar Dressing
-    category: Meal
   - id: B65D735B
     name: Orange-Ginger Chicken Stir Fry
     tags:
       - all-in-one
       - asian
     category: Meal
-  - id: B40159E6
-    name: White Russian
-    category: Cocktail
+  - id: 542708B2
+    name: Caesar Dressing
+    category: Meal
   - id: 21651FB3
     name: Panino Di Carne Italiano
     tags:
@@ -104,11 +101,20 @@ content:
       - sandwich
       - italian
     category: Meal
+  - id: B40159E6
+    name: White Russian
+    category: Cocktail
   - id: A7625796
     name: Taco Salsa (Pico De Gallo)
     tags:
       - mexican
       - topping
+    category: Meal
+  - id: DDF74DF7
+    name: Pad Thai
+    tags:
+      - asian
+      - all-in-one
     category: Meal
   - id: 244B7F86
     name: Tacos Supreme
@@ -117,11 +123,8 @@ content:
       - handheld
       - all-in-one
     category: Meal
-  - id: DDF74DF7
-    name: Pad Thai
-    tags:
-      - asian
-      - all-in-one
+  - id: 5EA5B1CA
+    name: Cheesy Caprese Chicken
     category: Meal
   - id: ABD53EE4
     name: Shrimp Tacos
@@ -130,18 +133,15 @@ content:
       - handheld
       - all-in-one
     category: Meal
-  - id: 5EA5B1CA
-    name: Cheesy Caprese Chicken
-    category: Meal
-  - id: 676D41FC
-    name: Chicken Penne Florentine
-    category: Meal
   - id: 111CCFF1
     name: Chicken Fajitas
     tags:
       - mexican
       - handheld
       - all-in-one
+    category: Meal
+  - id: 676D41FC
+    name: Chicken Penne Florentine
     category: Meal
   - id: C71CC8CD
     name: Daiquiri
@@ -152,23 +152,23 @@ content:
   - id: CDD046E0
     name: Manhattan
     category: Cocktail
-  - id: 11BAA25D
-    name: Avocado Chocolate Pudding
-    category: Dessert
-  - id: 9784E61D
-    name: Dark 'n' Stormy
-    category: Cocktail
   - id: CD8E7E99
     name: Margarita
     category: Cocktail
+  - id: 9784E61D
+    name: Dark 'n' Stormy
+    category: Cocktail
+  - id: 11BAA25D
+    name: Avocado Chocolate Pudding
+    category: Dessert
   - id: 380AB22F
     name: Martini
     category: Cocktail
   - id: 2E2A533A
     name: Mint Julep
     category: Cocktail
-  - id: FCCA0B78
-    name: Medicina Latina
+  - id: 8B9A2583
+    name: Mojito
     category: Cocktail
   - id: B6AE80FB
     name: Thai Peanut Buddha Bowl
@@ -176,23 +176,23 @@ content:
       - salad
       - all-in-one
     category: Meal
-  - id: 8B9A2583
-    name: Mojito
+  - id: FCCA0B78
+    name: Medicina Latina
     category: Cocktail
   - id: 26429553
     name: Negroni
     category: Cocktail
-  - id: 754BEAAE
-    name: Sex on the Beach
-    category: Cocktail
   - id: 1B8F8AB0
     name: Crepes
     category: Meal
-  - id: 16AA3F1A
-    name: Penicillin
+  - id: 754BEAAE
+    name: Sex on the Beach
     category: Cocktail
   - id: 6BC1B148
     name: Chocolate Martini
+    category: Cocktail
+  - id: 16AA3F1A
+    name: Penicillin
     category: Cocktail
   - id: CA993BB0
     name: Bailey's Chocolate Martini
@@ -223,4 +223,7 @@ content:
     tags:
       - salad
       - side
+    category: Meal
+  - id: 3F6961B0
+    name: Peanutty Sesame Noodle Bowl
     category: Meal

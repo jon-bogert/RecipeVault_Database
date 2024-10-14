@@ -1,0 +1,74 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 157.725342
+    name: Peanut Butter
+  - type: Volume
+    amount: 88.7208023
+    name: Warm Water
+  - type: Volume
+    amount: 59.1472015
+    name: Reduced Sodium Soy Sauce
+  - type: Volume
+    amount: 73.9340057
+    name: Seasoned Rice Vinegar
+  - type: Volume
+    amount: 59.1472015
+    name: Dark Sesame Oil
+  - type: Volume
+    amount: 19.7156792
+    name: Pure Maple Syrup
+  - type: Volume
+    amount: 19.7156792
+    name: Ginger
+    note: grated
+  - type: Cloves
+    is-scalable: true
+    amount: 4
+    name: "Garlic "
+    note: minced
+  - type: Volume
+    amount: 9.85783958
+    name: Sriracha Sauce
+  - type: Mass
+    amount: 226.796005
+    name: Soba Noodles
+  - type: Mass
+    amount: 226.796005
+    name: Tofu
+    note: extra-firm
+  - type: Volume
+    amount: 9.85783958
+    name: Peanut Oil
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Red Bell Pepper
+    note: thinly sliced
+  - type: Volume
+    amount: 177.440994
+    name: Green Onions
+    note: chopped
+  - type: Volume
+    amount: 59.1469994
+    name: Cilantro
+    note: coarsely chopped
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Sesame Seeds
+    note: toasted
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Peanuts
+directions:
+  - Whirl together peanut butter, water, soy sauce, rice vinegar, sesame oil, maple syrup, ginger, garlic, and sriracha in a blender until smooth. Set aside until ready to use.
+  - Cook Noodles according to package instructions. Rinse with cold water and set aside.
+  - Slice tofu into 1/2-inch cubes and blot dry with paper towels. Keep blotting until tofu feels dry to touch.
+  - Head peanut oil in non-stick skillet over medium-high heat. Add tofu and cook for about 2 minutes, or until browned. Flip pieces and repeat.
+  - Remove tofu and set aside.
+  - To the same skillet, add bell peppers. Cook and stir until tender, about 3 minutes.
+  - Add sauce and heat until bubbly. Add tofu and noodles and toss until veggies and noodles are evenly coated with sauce.
+  - Garnish with cilantro, green onions, sesame seeds and peanuts.
+notes: Makes 4 servings. Can substitute tofu for shrimp or chicken.
