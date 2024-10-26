@@ -1,0 +1,32 @@
+version: 0
+ingredients:
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Ice
+  - type: Volume
+    amount: 59.1469994
+    name: Bourbon
+  - type: Volume
+    amount: 29.5734997
+    name: Lemon Juice
+  - type: Volume
+    amount: 14.7867498
+    name: Maple Syrup
+  - type: Volume
+    amount: 73.9337463
+    name: Apple Cider
+  - type: Stick
+    is-scalable: true
+    amount: 1
+    name: "Cinnamon "
+  - type: Slice
+    is-scalable: true
+    amount: 1
+    name: "Lemon "
+directions:
+  - Add Bourbon, Lemon Juice, and Maple Syrup to shaker with ice.
+  - Strain in to rocks glass over new ice.
+  - Top with Apple Cider.
+  - Garnish with Lemon slice and cinnamon stick. Allow cinnamon stick rest on top of the ice or across the rim of the glass.
+notes: Can replace Lemon slice garnish with apple slice. Can replace Bourbon with Rye or Canadian Whiskey for lighter flavour.

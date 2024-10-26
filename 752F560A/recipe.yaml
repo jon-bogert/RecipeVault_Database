@@ -1,0 +1,39 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 59.1469994
+    name: Unsalted Butter
+    note: melted
+  - type: Volume
+    amount: 118.293999
+    name: Dark Brown Sugar
+  - type: Volume
+    amount: 3.69668984
+    name: Ground Cinnamon
+  - type: Volume
+    amount: 1.23222995
+    name: Ground Cloves
+  - type: Volume
+    amount: 7.39337969
+    name: Nutmeg
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Salt
+  - type: Volume
+    amount: 29.5736008
+    name: "Batter "
+    note: (above ingredients)
+  - type: Volume
+    amount: 44.3602486
+    name: Dark Rum
+  - type: Volume
+    amount: 177.440994
+    name: Water
+    note: boiling
+directions:
+  - Butter, Combine Sugar, Cinnamon, Cloves, Nutmeg, and salt into a bowl and stir to combine.
+  - Temper serving glass.
+  - Add batter and a little water to glass, stir to combine.
+  - Add Rum and top off with remaining hot water.
+notes: Batter ingredients makes 3 servings, drink ingredients makes 1. Can make stronger with 2 oz of Rum.
