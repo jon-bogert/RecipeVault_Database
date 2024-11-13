@@ -2,7 +2,7 @@ version: 0
 ingredients:
   - type: Volume
     is-scalable: true
-    amount: 2.25
+    amount: 532.324
     name: All-Purpose Flour
   - type: Volume
     amount: 4.92891979
