@@ -26,12 +26,6 @@ content:
       - quick
       - italian
     category: Meal
-  - id: AF1144A3
-    name: Chocolate Chip Cookies
-    category: Dessert
-  - id: 49A1B902
-    name: Old Fashioned
-    category: Cocktail
   - id: B2FEE108
     name: Moscow Mule
     category: Cocktail
@@ -41,6 +35,12 @@ content:
       - side
       - vegetable
     category: Meal
+  - id: AF1144A3
+    name: Chocolate Chip Cookies
+    category: Dessert
+  - id: 49A1B902
+    name: Old Fashioned
+    category: Cocktail
   - id: 1FEB957E
     name: Garlic Prawn White Wine Pasta
     tags:
@@ -200,6 +200,9 @@ content:
   - id: CA993BB0
     name: Bailey's Chocolate Martini
     category: Cocktail
+  - id: DED770DB
+    name: Chili Garlic Shrimp Stir-Fry
+    category: Meal
   - id: AA2746F6
     name: B-52
     category: Cocktail

@@ -1,0 +1,57 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 44.3604012
+    name: Rice Wine Vinegar
+  - type: Volume
+    amount: 14.7868004
+    name: Sesame oil
+  - type: Volume
+    amount: 14.7868004
+    name: Soy Sauce
+  - type: Volume
+    amount: 14.7868004
+    name: Honey
+  - type: Volume
+    amount: 14.7868004
+    name: Chili crisp
+  - type: Cloves
+    is-scalable: true
+    amount: 2
+    name: Garlic
+    note: minced
+  - type: Volume
+    amount: 14.7868004
+    name: Dijon Mustard
+  - type: Mass
+    amount: 500
+    name: Uncooked Shrimp
+  - type: Volume
+    amount: 177.440994
+    name: Jasmine Rice
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Red Bell Pepper
+    note: sliced
+  - type: Volume
+    amount: 709.763977
+    name: Broccoli
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Green Onion
+    note: chopped
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Toasted Sesame Seeds
+directions:
+  - Stir together vinegar, sesame oil, soy sauce, honey, chili crisp, garlic, and Dijon mustard.
+  - Marinade shrimp in 1/2 cup of the sauce for about 30 minutes.
+  - Cook Rice according to package instructions.
+  - Once done marinating, cook shrimp on a skillet over medium-high heat, until cooked through.
+  - Remove shrimp from skillet and set aside. Add Peppers, Broccoli and cook until tender.
+  - Add remaining sauce, cooked shrimp, and green onions. Cook until sauce starts to bubble.
+  - Serve with rice and garnish with sesame seeds
+notes: You can substitute shrimp for chicken. Also you can the cook rice in butter and chicken broth.
