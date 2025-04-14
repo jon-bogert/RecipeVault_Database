@@ -1,7 +1,7 @@
 version: 0
 ingredients:
   - type: Mass
-    amount: 300
+    amount: 500
     name: Mayonnaise
   - type: Cloves
     is-scalable: true
