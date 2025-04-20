@@ -1,0 +1,76 @@
+version: 0
+ingredients:
+  - type: Mass
+    amount: 453.59201
+    name: Italian Sausage
+    note: casings removed
+  - type: Volume
+    amount: 29.5736008
+    name: Olive Oil
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Onion
+    note: diced
+  - type: Cloves
+    is-scalable: true
+    amount: 4
+    name: Garlic
+    note: minced
+  - type: Volume
+    amount: 1182.93994
+    name: Beef Broth
+  - type: Volume
+    amount: 236.587997
+    name: Water
+  - type: Mass
+    amount: 396.893005
+    name: Diced Tomatoes
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Carrot
+    note: shredded
+  - type: Volume
+    amount: 4.92891979
+    name: Dried Basil
+  - type: Volume
+    amount: 2.4644599
+    name: Dried Oregano
+  - type: Mass
+    amount: 226.796005
+    name: Tomato Sauce
+  - type: Mass
+    amount: 226.796005
+    name: Tortellini Pasta
+  - type: Volume
+    amount: 236.587997
+    name: Whipping Cream
+  - type: Volume
+    amount: 44.3604012
+    name: Fresh Parsley
+    note: chopped
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Fresh Basil
+    note: chopped
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Parsley
+    note: chopped
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Parmesan
+    note: grated
+directions:
+  - In a dutch oven or large pot, heat oil over medium heat and add in the sausage then cook for 5-7 minutes
+  - Once the sausage has browned, remove and drain on a paper lined plate. Discard all but 1 tbsp. sausage drippings from the pan
+  - Using the sausage drippings remaining, saute chopped onion and garlic over medium heat for 3-4 minutes
+  - Stir in the beef broth, water, diced tomatoes, shredded carrots, basil, oregano, tomato sauce, and drained sausage
+  - Bring this to a boil, then reduce the heat to low. Simmer uncovered for 30 minutes
+  - At 30 minutes, skim any visible fat from the top and add in the parsley then cover and cook for an additional 30 minutes
+  - Add in the tortellini and cream then cook for another 10 minutes
+  - Serve with additional fresh parsley, fresh basil, and grated Parmesan cheese
