@@ -1,42 +1,50 @@
-version: 0
+version: 1
 ingredients:
   - type: Volume
-    amount: 44.360321
-    name: Butter
+    amount: 59.1470947
+    name: Extra Virgin Olive Oil
+  - type: Volume
+    amount: 59.1470947
+    name: Tomato Paste
+  - type: Volume
+    amount: 236.588379
+    name: Tomato Passata
+  - type: Cloves
+    is-scalable: true
+    amount: 1
+    name: Garlic
+    note: minced
   - type: ""
     is-scalable: true
     amount: 1
     name: Shallots
     note: minced
-  - type: Cloves
-    is-scalable: true
-    amount: 2
-    name: Garlic
-    note: minced
   - type: Volume
-    amount: 118.294189
-    name: Tomato Paste
-  - type: Volume
-    amount: 2.46446252
-    name: Red Pepper Flakes
+    amount: 4.92892504
+    name: Calabrian Chili Oil
   - type: Volume
     amount: 29.5735474
     name: Vodka
   - type: ""
-    is-scalable: true
+    is-scalable: false
     amount: 0
     name: Salt
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Pepper
   - type: Mass
-    amount: 453.592896
+    amount: 500
     name: Rigatoni
     note: (or other tubed pasta)
   - type: Volume
-    amount: 118.294189
+    amount: 236.588379
     name: Whipping Cream
-  - type: Volume
-    amount: 118.294189
-    name: Parmesan
-    note: finely grated (more for garnish)
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Parmigiano Reggiano
+    note: grated, for garnish
   - type: ""
     is-scalable: false
     amount: 0
@@ -44,8 +52,8 @@ ingredients:
     note: chopped, for serving
 directions:
   - "If adding chicken, prepare Italian cast iron chicken ahead of time and slice into strips. "
-  - "In a large Skillet over medium heat, melt butter. Add shallots and garlic and cook, stirring frequently, until softened, 4 to 5 minutes. "
-  - Add tomato paste and red pepper flakes and cook, stirring frequently, until the paste has coded shallots and garlic and is beginning to darken, 5 minutes.
-  - Add vodka to the pot and stir to incorporate, scraping up any brown bits from the bottom of the pot. Turn off heat.
-  - Bring a large pot of salted water to boil and cook pasta until al dante. Reserve roughly 2 cups of pasta water before draining.
-  - Return sauce to medium heat and add 1/4 cup of pasta water and heavy cream, stirring to combine. Add half the parmesan and stir until melted. Turn off heat and stir in cooked pasta (along with chicken, if using). Fold and remaining parmesan, and more pasta water (about a tablespoon at a time) if the sauce is looking dry. Season with salt if needed. Serve topped with more parmesan and chopped basil leaves.
+  - Bring a pot of water to a boil and cook pasta according to package directions.
+  - In a skillet, begin coating the pan with olive oil, followed by garlic, shallot, and chilli oil. Cook around 30 seconds, until aromatic.
+  - Add domato paste to break up the pulp, then begin adding the passata and vodka. Let simmer.
+  - Add cream and season with salt an pepper to taste.
+  - Combine with cooked pasta and garnish with chopped basil and grated parmigiano reggiano
