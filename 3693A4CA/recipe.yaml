@@ -1,0 +1,46 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 473.175995
+    name: Gingersnap Cookies
+    note: finely crushed
+  - type: Volume
+    amount: 59.1469994
+    name: Butter
+    note: melted
+  - type: Mass
+    amount: 680.388
+    name: Cream Cheese
+    note: softened
+  - type: Volume
+    amount: 236.587997
+    name: Sugar
+  - type: Volume
+    amount: 4.92891979
+    name: Vanilla Extract
+  - type: ""
+    is-scalable: true
+    amount: 3
+    name: Eggs
+    note: large at room temperature
+  - type: Volume
+    amount: 236.587997
+    name: Pumpkin Puree
+    note: pure
+  - type: Volume
+    amount: 4.92891979
+    name: Cinnamon
+    note: ground
+  - type: Volume
+    amount: 2.4644599
+    name: Nutmeg
+    note: ground
+  - type: Volume
+    amount: 2.4644599
+    name: Ginger
+    note: ground
+directions:
+  - "First, let’s make that spicy-sweet foundation. Crush those gingersnaps until they’re fine like sand – I use a food processor or the old-fashioned rolling pin method (great for stress relief!). Mix the crumbs with melted butter until it looks like wet beach sand. Here’s my trick: dump the mixture into your 9-inch springform pan and press firmly with the bottom of a measuring cup. Really pack it in tight – we want no crumbling disasters later! I build the crust about 1.5 inches up the sides too, creating a lovely little wall for our filling. No pre-baking needed – this crust gets perfectly crisp while the cheesecake bakes."
+  - Now the star of our show! Start with room temperature cream cheese – this is non-negotiable for smoothness. Beat it with sugar and vanilla until it’s completely lump-free (about 2 minutes). Scrape that bowl down, then add eggs one at a time, mixing just until combined each time. Gently fold in the pumpkin puree and spices – don’t overmix here! We want to keep that air we worked so hard to incorporate. The batter should be velvety smooth with no streaks. Pour it over your crust and give the pan a little wiggle to level it out.
+  - Bake at 325 deg-F for 50-60 minutes. The edges should be set but the center will still jiggle slightly when you nudge the pan – that’s your “jiggle test” for doneness. Turn off the oven, crack the door, and let it cool slowly for an hour. This gradual cooldown prevents cracks! Finally, run a knife around the edge before chilling for at least 4 hours (overnight is even better). The wait is torture, but trust me – that patience pays off in creamy perfection!
+notes: 2 cups of gingersnap cookies is about 30 cookies (or 300g)
