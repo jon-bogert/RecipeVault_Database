@@ -1,0 +1,57 @@
+version: 0
+ingredients:
+  - type: Mass
+    amount: 200
+    name: Tagliatelle Pasta
+  - type: ""
+    is-scalable: true
+    amount: 10
+    name: -12 Grape Tomatoes
+    note: halved
+  - type: ""
+    is-scalable: true
+    amount: 0.5
+    name: Red Onion
+    note: sliced
+  - type: Handful
+    is-scalable: true
+    amount: 1
+    name: "Baby Spinach "
+    note: fresh
+  - type: Volume
+    amount: 59.1472015
+    name: Tomato Passata
+  - type: Volume
+    amount: 29.5736008
+    name: Extra Virgin Olive Oil
+  - type: Volume
+    amount: 4.92891979
+    name: Italian Herbs
+    note: (Basil, Oregano, Thyme, Rosemary)
+  - type: Volume
+    amount: 100
+    name: Whipping Cream
+  - type: Volume
+    amount: 300
+    name: Low Sodium Chicken Broth
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Salt
+    note: to taste
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Pepper
+    note: to taste
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Parmesan
+    note: grated (garnish)
+directions:
+  - Place pasta wheels along the center of the a frying pan along with grape tomatoes, onion, garlic, and spinach. Place a tbsp of passata on top of each pasta wheel along with spices.
+  - Add extra virgin olive oil, cream, broth.
+  - Cook for about 15 minutes, until pasta is al dente.
+  - Add salt and pepper to taste, plate, and garnish with grated parmesan.
+notes: Original recipe uses vegetable broth instead of chicken broth as well as one total tbsp of tomato paste in stead of passata.
