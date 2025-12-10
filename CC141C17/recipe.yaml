@@ -1,0 +1,80 @@
+version: 0
+ingredients:
+  - type: Mass
+    amount: 450
+    name: Chicken Breasts
+  - type: Mass
+    amount: 240
+    name: Tagliatelle Pasta
+  - type: Volume
+    amount: 59.1469994
+    name: Extra Virgin Olive Oil
+  - type: ""
+    is-scalable: true
+    amount: 6
+    name: Roma Tomatoes
+    note: whole
+  - type: Cloves
+    is-scalable: true
+    amount: 3
+    name: Garlic
+    note: sliced
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Salt
+    note: to taste
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Pepper
+    note: to taste
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Shallot
+    note: sliced
+  - type: Handful
+    is-scalable: true
+    amount: 1
+    name: "Baby Spinach "
+    note: fresh
+  - type: Volume
+    amount: 29.5736008
+    name: Tomato Paste
+  - type: Volume
+    amount: 59.1469994
+    name: Fresh Basil
+    note: finely chopped
+  - type: Volume
+    amount: 14.7868004
+    name: Dried Italian Herbs
+    note: (Oregano, Thyme, Rosemary)
+  - type: Volume
+    amount: 473.175995
+    name: Mozzarella
+    note: freshly grated
+  - type: Volume
+    amount: 157.725342
+    name: Whipping Cream
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Parmesan
+    note: grated (garnish)
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Parsley
+    note: chopped (garnish)
+directions:
+  - Pan fry chicken breasts using the "Italian Cast Iron Chicken" spices and set aside in a warming drawer for later.
+  - Place olive oil in pan along with whole tomatoes, shallot, spinach, garlic, salt and pepper. Cover until tomatoes as soft and their skin begins to split.
+  - Cook pasta according to package directions
+  - Remove tomato skins and mash into a pulp
+  - Add tomato paste, chopped basil along with other herbs
+  - Slowly add and fold in mozzarella and stir in cream. Add more salt if needed.
+  - While draining pasta, add a bit of pasta water to the sauce. Add pasta to the pan once drained
+  - Slice reserved chicken and mix it with the sauce along with the pasta
+  - Garnish with freshly grated parmesan and chopped parsley and enjoy
+notes: Can be served with other pastas or without chicken if needed.
