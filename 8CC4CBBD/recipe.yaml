@@ -1,0 +1,78 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 400
+    name: Coconut milk
+  - type: Volume
+    amount: 29.5736008
+    name: Red Curry paste
+  - type: Cloves
+    is-scalable: true
+    amount: 3
+    name: "Garlic "
+    note: minced
+  - type: Volume
+    amount: 9.85783958
+    name: Ginger
+    note: minced
+  - type: Volume
+    amount: 44.3604012
+    name: Soy Sauce
+  - type: Volume
+    amount: 14.7868004
+    name: Oyster Sauce
+  - type: Volume
+    amount: 14.7868004
+    name: Peanut Butter
+  - type: Volume
+    amount: 14.7868004
+    name: Sesame Oil
+  - type: Volume
+    amount: 9.85783958
+    name: Rice Vinegar
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Lime's Juice
+  - type: Volume
+    amount: 946.35199
+    name: Bok Choy
+    note: chopped
+  - type: ""
+    is-scalable: true
+    amount: 15
+    name: "frozen dumplings "
+    note: (pork, chicken, or veggie)
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: "Chili Crisp "
+    note: (garnish)
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Green Onions
+    note: chopped (garnish)
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: "Toasted Sesame Seeds "
+    note: (garnish)
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: "Cilantro "
+    note: (garnish)
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: "Lime Juice "
+    note: (garnish)
+directions:
+  - Preheat oven to 400°F.
+  - In a 9×13 pan, whisk together the coconut milk, curry paste, garlic, ginger, soy sauce, oyster sauce, peanut butter, sesame oil, and rice vinegar.
+  - Squeeze in the lime juice.
+  - Stir in the chopped bok choy.
+  - Arrange the frozen dumplings on top in a single layer.
+  - Cover with foil and bake for 25–30 minutes until the dumplings are cooked through.
+  - Finish with chili crisp, green onions, sesame seeds, lime and cilantro if desired. Serve hot.
