@@ -14,7 +14,7 @@ ingredients:
     name: Salt
   - type: ""
     is-scalable: true
-    amount: 4
+    amount: 2
     name: Garlic Cloves
   - type: Volume
     amount: 4.92891979
