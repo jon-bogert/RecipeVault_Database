@@ -1,0 +1,37 @@
+version: 0
+ingredients:
+  - type: Volume
+    amount: 177.440994
+    name: Extra Virgin Olive Oil
+  - type: Volume
+    amount: 59.1469994
+    name: Red Wine Vinegar
+  - type: Volume
+    amount: 14.7868004
+    name: Balsamic Vinegar
+  - type: Volume
+    amount: 4.92891979
+    name: Salt
+  - type: ""
+    is-scalable: true
+    amount: 4
+    name: Garlic Cloves
+  - type: Volume
+    amount: 4.92891979
+    name: Sugar
+  - type: Volume
+    amount: 14.7868004
+    name: Dried Oregano
+  - type: Volume
+    amount: 14.7868004
+    name: Dried Basil
+  - type: ""
+    is-scalable: true
+    amount: 1
+    name: Lemon Juice
+  - type: Volume
+    amount: 7.39340019
+    name: Pepper
+directions:
+  - Combine ingredients in blender and blend until smooth. Make sure garlic cloves are fully blended.
+notes: Makes about 1.5 cups of dressing. If removing sugar, double Balsamic Vinegar. Taste and adjust amounts as needed.
