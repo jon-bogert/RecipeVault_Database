@@ -1,0 +1,40 @@
+version: 0
+ingredients:
+  - type: Mass
+    amount: 100
+    name: Spaghetti
+  - type: Volume
+    amount: 29.5736008
+    name: Extra Virgin Olive Oil
+  - type: ""
+    is-scalable: true
+    amount: 3
+    name: Cloves Garlic
+  - type: Mass
+    amount: 150
+    name: Grape Tomatoes
+    note: "halved (Red & Yellow if possible)"
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Salt
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Fresh Basil
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Water
+  - type: ""
+    is-scalable: false
+    amount: 0
+    name: Grana Padano Cheese
+directions:
+  - Start cooking spaghetti according to package directions.
+  - Add olive oil and garlic into the pan at high heat. Hold the pan at an angle so everything pools in the corner of the pan. Let the garlic sit in the oil for no less than a minute and it starts to brown on the edges.
+  - Add halved tomatoes, water and ripped fresh basil, cover, and let sit over medium high heat for 5-10 minutes.
+  - Remove garlic, smash it with your knife, and add it back into the pan.
+  - Add 1/8 cup pasta water and cooked pasta into the pan with the sauce.
+  - Top with fresh basil, freshly grated cheese, and serve.
+notes: Makes 1 serving. Can sub Grana Padano for any parmesan type Italian cheese.
